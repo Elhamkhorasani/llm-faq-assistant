@@ -24,27 +24,3 @@ An AI-powered FAQ assistant that leverages machine learning to automatically gen
    ```bash
    git clone https://github.com/Elhamkhorasani/llm-faq-assistant.git
 
-2. Navigate to the project directory:
-
-```bash
-Kopieren
-Bearbeiten
-cd llm-faq-assistant
-Install the required dependencies:
-
-```bash
-Kopieren
-Bearbeiten
-pip install -r requirements.txt
-Set up environment variables for API keys or configuration (if applicable).
-
-Usage
-After installing dependencies, you can run the assistant script:
-
-```bash
-Kopieren
-Bearbeiten
-python run_faq_assistant.py
-Follow the prompts to input your data, and the assistant will generate a set of FAQs based on the input.
-
-Configuration
