@@ -30,7 +30,8 @@ An AI-powered FAQ assistant that leverages machine learning to automatically gen
     ```bash
    pip install -r requirements.txt
 
-5. 
+4. Set up environment variables for API keys or configuration (if applicable)
+   
 ## Usage
 After installing dependencies, you can run the assistant script:
 
